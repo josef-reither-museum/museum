@@ -1,3 +1,4 @@
+#!/bin/sh
 DIR=../josef-reither-museum.github.io
 hugo -D -d $DIR
 cd $DIR

@@ -4,7 +4,7 @@ featured_image: '/images/gohugo-default-sample-hero-image.jpg'
 description: "Langenrohr"
 ---
 
-Öffnungszeiten
+Öffnungszeiten:
 
 Sonntag 9.00 - 12.00 Uhr
 
