@@ -4,6 +4,7 @@ featured_image: '/images/gohugo-default-sample-hero-image.jpg'
 omit_header_text: true
 type: page
 menu: main
+weight: 100
 
 ---
 
