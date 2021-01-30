@@ -3,3 +3,6 @@ languageCode = "de-AT"
 title = "Josef Reither Museum"
 theme = "ananke"
 disableKinds = ["RSS"]
+
+[markup.goldmark.renderer]
+unsafe = true
