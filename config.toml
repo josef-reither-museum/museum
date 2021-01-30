@@ -1,4 +1,4 @@
-baseURL = "http://josef-reither-museum.github.io/"
+baseURL = "https://josef-reither-museum.at/"
 languageCode = "de-AT"
 title = "Josef Reither Museum"
 theme = "ananke"

@@ -6,6 +6,6 @@ description: "Langenrohr"
 
 Öffnungszeiten:
 
-Sonntag 9.00 - 12.00 Uhr
+Sonntag 9:00 - 12:00 Uhr
 
 oder nach telefonischer Vereinbarung unter +43 664 3266850
