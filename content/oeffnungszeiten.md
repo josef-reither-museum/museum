@@ -23,19 +23,19 @@ Jederzeit nach telefonischer Vereinbarung.
 
 <table id="zeiten">
     <tr>
-        <td>+43 664 32 66 850</td>
+        <td>+43 664 3266850</td>
         <td>KR Johann Girschik</td>
     </tr>
     <tr>
-        <td>+43 676 44 84 909</td>
+        <td>+43 676 4484909</td>
         <td>Alois Wurzinger</td>
     </tr>
     <tr>
-        <td>+43 677 61 99 1490</td>
+        <td>+43 677 61991490</td>
         <td>Franz Vojtech</td>
     </tr>
     <tr>
-        <td>+43 699 11 68 36 913</td>
+        <td>+43 699 116836913</td>
         <td>Lore Brenner</td>
     </tr>
 </table>
