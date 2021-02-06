@@ -9,7 +9,7 @@ weight: 100
 ---
 
 
-![Kulturkreis Langenrohr](/kulturkreis.jpg)
+![Kulturkreis Langenrohr](/kulturkreis.png)
 
 Kulturkreis Langenrohr
 
