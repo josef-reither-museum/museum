@@ -9,12 +9,14 @@ weight: 100
 ---
 
 
-Gemeinde Langenrohr
+![Kulturkreis Langenrohr](/kulturkreis.jpg)
+
+Kulturkreis Langenrohr
 
 Josef Reither Straße 16
 
 3442 Langenrohr
 
-Telefon: +43 664 3266850
+Telefon: +43 664 3266850 (KR Johann Girschik)
 
-gemeinde@langenrohr.gv.at
+alois.wurzinger@gmx.at
