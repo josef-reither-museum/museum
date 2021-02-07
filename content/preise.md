@@ -1,6 +1,6 @@
 ---
 title: Preise
-featured_image: '/images/gohugo-default-sample-hero-image.jpg'
+featured_image: 'reither-haus.jpg'
 omit_header_text: true
 type: page
 menu: main

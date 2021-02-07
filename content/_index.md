@@ -1,6 +1,6 @@
 ---
 title: "Josef Reither Museum"
-featured_image: '/images/gohugo-default-sample-hero-image.jpg'
+featured_image: '/reither-haus.jpg'
 description: "Langenrohr"
 ---
 
