@@ -11,6 +11,7 @@ weight: 20
 Sonntag 9:00 - 12:00 Uhr
 
 Jederzeit nach telefonischer Vereinbarung.
+Führungen sind kostenlos.
 
 <style>
     #zeiten {

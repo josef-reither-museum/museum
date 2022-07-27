@@ -4,7 +4,7 @@ featured_image: 'reither-haus.jpg'
 omit_header_text: true
 type: page
 menu: main
-weight: 1
+weight: 5
 
 ---
 
