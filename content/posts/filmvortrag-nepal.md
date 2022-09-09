@@ -1,7 +1,7 @@
 ---
 title: "Filmvortrag über Nepal am 10. September"
 date: 2022-07-03T10:43:32+02:00
-draft: true
+draft: false
 disable_share: true
 ---
 
@@ -17,4 +17,4 @@ Durrbar Square, der Königspalast, oder Swayambunath Tempel, der Affentempel, si
 
 __Getränke und Snacks stehen bereit__.
 
-[Hier gehts zur Einladung](/posts/filmvortrag-nepal/einladung.pdf)
+[Hier gehts zur Einladung](/posts/2022/filmvortrag-nepal.pdf)
