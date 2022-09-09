@@ -1,6 +1,6 @@
 #!/bin/sh
 set -e
-if [ -z $HUGO_PATH]; then
+if [ -z $HUGO_PATH ]; then
     echo "HUGO_PATH not set."
     exit 1
 fi
