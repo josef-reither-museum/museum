@@ -15,6 +15,6 @@ This script generates the website into the `josef-reither-museum.github.io.git` 
 HUGO_PATH=<file> ./deploy.sh
 ```
 
-## Testing
+## Writing & Testing
 
-Run `./test.sh`.
+Execute `hugo new posts/{title}.md` to create a new post. Edit. Run `./test.sh` to start the server to see the results.
