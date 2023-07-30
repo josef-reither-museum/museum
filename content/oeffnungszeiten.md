@@ -35,8 +35,4 @@ Führungen sind kostenlos.
         <td>+43 677 61991490</td>
         <td>Franz Vojtech</td>
     </tr>
-    <tr>
-        <td>+43 699 116836913</td>
-        <td>Lore Brenner</td>
-    </tr>
 </table>
