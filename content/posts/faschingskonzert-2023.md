@@ -2,6 +2,7 @@
 title: "Faschingskonzert mit 'die harmonischen Zwei'"
 date: 2023-02-05T20:10:04+01:00
 draft: false
+disable_share: true
 ---
 
 Nach dem großartigen Erfolg beim Adventkonzert 2022 mit Dreiklang wollen wir Sie nun zum Faschingskonzert mit "die harmonischen Zwa" am 19. Februar 2023 um 14:14 Uhr, ins Josef Reithermuseum einladen.

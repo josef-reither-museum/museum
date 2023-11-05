@@ -2,6 +2,7 @@
 title: "Lange Nacht Der Museen"
 date: 2023-09-17T14:02:30+02:00
 draft: false
+disable_share: true
 ---
 
 Der Kulturkreis Langenrohr lädt recht herzlich zur langen Nacht der Museen am Samstag, den __7. Oktober__ von __18 Uhr bis 1 Uhr__ Früh.

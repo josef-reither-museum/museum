@@ -2,6 +2,7 @@
 title: "Neuauflage des Josef Reither-Buchs"
 date: 2023-09-17T14:14:24+02:00
 draft: false
+disable_share: true
 ---
 
 Das Josef Reither Museum wurde 2012 durch den damaligen LH Dr. Erwin Pröll feierlich eröffnet und gleichzeitig _1000_ Stk. Bücher "Josef Reither und seine Zeit" aufgelegt.
