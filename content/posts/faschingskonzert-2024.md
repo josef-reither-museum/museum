@@ -6,7 +6,8 @@ disable_share: true
 ---
 
 Der Kulturkreis Langenrohr lädt recht herzlich zum Advent-Konzert am Sonntag, den 11. Februar 2024 um 14:14 Uhr.
-Marlene Girschik wird Songhighlights aus Pop & Jazz im Josef Reithermuseum präsentieren.
+Diesmal präsentiert Marlene Girschik Lieder aus Jazz und Pop zum Mits(w)ingen und Träumen aber auch zum Nachdenken.
+Feiern wir die bunte und närrische Zeit des Faschings stimmungsvoll!
 
 Wer Lust und Laune hat, kommt kostümiert.
 
