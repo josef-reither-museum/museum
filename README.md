@@ -17,4 +17,6 @@ HUGO_PATH=<file> ./deploy.sh
 
 ## Writing & Testing
 
-Execute `hugo new posts/{title}.md` to create a new post. Edit. Run `./test.sh` to start the server to see the results.
+Execute `hugo new posts/{title}.md` to create a new post. Edit.
+Run `./test.sh` to start the server to see the results.
+Images to into `static/posts/<year>`.
