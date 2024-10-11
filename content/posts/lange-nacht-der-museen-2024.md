@@ -1,7 +1,7 @@
 ---
 title: "Lange Nacht der Museen"
 date: 2024-10-11T22:25:08+02:00
-draft: true
+draft: false
 disable_share: true
 ---
 
