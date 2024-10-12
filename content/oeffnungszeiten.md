@@ -12,6 +12,7 @@ Sonntag 9:00 - 12:00 Uhr
 
 Jederzeit nach telefonischer Vereinbarung.
 Führungen sind kostenlos.
+[Anbei](/einteilung-okt-bis-dez.xls) die geplanten Führer zu den jeweiligen Öffnungszeiten.
 
 <style>
     #zeiten {
