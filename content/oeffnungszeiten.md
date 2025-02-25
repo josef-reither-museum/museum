@@ -25,10 +25,6 @@ Führungen sind kostenlos.
 
 <table id="zeiten">
     <tr>
-        <td>+43 664 3266850</td>
-        <td>KR Johann Girschik</td>
-    </tr>
-    <tr>
         <td>+43 676 4484909</td>
         <td>Alois Wurzinger</td>
     </tr>
