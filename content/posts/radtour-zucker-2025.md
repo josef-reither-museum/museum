@@ -1,5 +1,5 @@
 ---
-title: "Radtour ins Zukermuseum Tulln"
+title: "Radtour ins Zuckermuseum Tulln"
 date: 2025-04-18T13:08:50+02:00
 draft: false
 disable_share: true
