@@ -37,4 +37,4 @@ Josef Reither Straße 16
     </tr>
 </table>
 
-alois.wurzinger@gmx.at
+JReitherMuseum@gmx.at
