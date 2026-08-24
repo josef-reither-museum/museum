@@ -9,7 +9,7 @@ Der Kulturkreis Langenrohr lädt recht herzlich zum Filmvortrag über Montenegro
 
 Der Film führt auf alten Militärpfaden von Herceg Novi bis Bar an der Grenze zu Albanien. Zu Fuß wurden dabei 150 Kilometer und 4.100 Höhenmeter im An- und Abstieg bewältigt.
 
-__Eintritt ist frei.__
-__Für Imbiss und Getränke ist gesorgt.__
+__Eintritt ist frei, um Spenden wird gebeten.__
+__Getränke und Snacks stehen bereit.__
 
 [Hier gehts zur Einladung](/posts/2026/filmvortrag-montenegro.pdf)
