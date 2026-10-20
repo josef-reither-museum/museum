@@ -10,9 +10,13 @@ weight: 20
 
 Sonntag 9:00 - 12:00 Uhr
 
+**Ausnahmen im Oktober bis Dezember 2026:** Am 4. Oktober, 29. November und 27. Dezember ist das Museum geschlossen.
+
+Ab Sonntag, 3. Jänner 2027, ist das Museum wieder geöffnet.
+
 Jederzeit nach telefonischer Vereinbarung.
 Führungen sind kostenlos.
-[Anbei](/einteilung-q3-2026.pdf) die geplanten Führer zu den jeweiligen Öffnungszeiten.
+[Hier finden Sie den Öffnungszeiten- und Führungsplan für Oktober bis Dezember 2026](/einteilung-q4-2026.pdf).
 
 <style>
     #zeiten {

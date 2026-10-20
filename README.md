@@ -19,4 +19,6 @@ HUGO_PATH=<file> ./deploy.sh
 
 Execute `hugo new posts/{title}.md` to create a new post. Edit.
 Run `./test.sh` to start the server to see the results.
+The server is also available to other devices on your network at `http://<your-computer-ip>:1313/`.
+To use that address for absolute links, run `./test.sh --baseURL http://<your-computer-ip>/`.
 Images to into `static/posts/<year>`.

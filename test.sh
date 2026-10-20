@@ -1,2 +1,2 @@
 #!/bin/sh
-hugo serve -D
+exec hugo serve -D --bind 0.0.0.0 "$@"
